@@ -1,0 +1,59 @@
+{
+  "nluResponseBestConfidence": {
+    "intents": [
+      "greetings"
+    ],
+    "entities": [
+      "name"
+    ],
+    "confidence": 0.9
+  },
+  "nluResponseBestConfidence2": {
+    "intents": [
+      "salutation"
+    ],
+    "entities": [
+      "city"
+    ],
+    "confidence": 0.9
+  },
+  "nluResponseBestConfidence3": {
+    "intents": [
+      "salutation"
+    ],
+    "entities": [
+      "name"
+    ],
+    "confidence": 0.9
+  },
+  "nluResponseWorstConfidence": {
+    "intents": [
+      "salutation"
+    ],
+    "entities": [
+      "name"
+    ],
+    "confidence": 0.5
+  },
+  "nluBestResultMerged": {
+    "intents": [
+      "greetings",
+      "salutation"
+    ],
+    "entities": [
+      "name",
+      "city"
+    ],
+    "confidence": 0.9
+  },
+  "nluBestResultMergedFiltered": {
+    "intents": [
+      "greetings",
+      "salutation"
+    ],
+    "entities": [
+      "name"
+    ],
+    "confidence": 0.9
+  }
+}

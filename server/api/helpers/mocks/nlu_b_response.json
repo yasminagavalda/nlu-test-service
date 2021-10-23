@@ -1,0 +1,5 @@
+{
+  "intent": "salutation",
+  "entity": "name",
+  "confidence": 0.7
+}

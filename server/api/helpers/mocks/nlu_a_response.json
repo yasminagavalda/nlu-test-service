@@ -1,0 +1,9 @@
+{
+  "intents": [
+    "greetings"
+  ],
+  "entities": [
+    "name"
+  ],
+  "confidence": 0.9
+}
